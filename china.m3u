@@ -1,34 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png" tvg-name="CCTV1" ,CCTV-1综合HD
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:-1 ,CCTV-2财经
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv2/1300000/mnf.m3u8
 #EXTINF:-1 ,CCTV-3综艺
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
 #EXTINF:-1 ,CCTV-4国际
-http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8
 #EXTINF:-1 ,CCTV-5体育
-http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 ,CCTV-6高清
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
 #EXTINF:-1 ,CCTV-7军事农业
-http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv7hd/4000000/mnf.m3u8
 #EXTINF:-1 ,CCTV-8高清
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
 #EXTINF:-1 ,CCTV-9纪录
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-9hd/1.m3u8
 #EXTINF:-1 ,CCTV-10科教
-http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
 #EXTINF:-1 ,CCTV-11戏曲
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv11/1300000/mnf.m3u8
 #EXTINF:-1 ,CCTV-12社会与法
-http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
 #EXTINF:-1 ,CCTV-13新闻
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+http://stream10.fjtv.net/cntv13/playlist.m3u8?_upt=85acd97f1641287098
 #EXTINF:-1 ,CCTV-14少儿
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctvse/1300000/mnf.m3u8
 #EXTINF:-1 ,CCTV-15音乐
-http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctvyy/1300000/mnf.m3u8
 #EXTINF:-1 ,CCTV-5+体育
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 ,湖南卫视高清
