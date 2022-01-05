@@ -1,20 +1,39 @@
-#CCTV
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png" tvg-name="CCTV1" ,CCTV-1综合HD
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-1hd/1.m3u8
+#EXTINF:-1 ,CCTV-2财经
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-2hd/1.m3u8
+#EXTINF:-1 ,CCTV-3综艺
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-3hd/1.m3u8
+#EXTINF:-1 ,CCTV-4国际
 http://stream10.fjtv.net/cctv4/playlist.m3u8?_upt=b5adf49e1641380558
+#EXTINF:-1 ,CCTV-4美洲
 http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
+#EXTINF:-1 ,CCTV-4欧洲
 http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1 ,CCTV-5体育
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-5hd/1.m3u8
+#EXTINF:-1 ,CCTV-5+体育
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-tysshd/1.m3u8
+#EXTINF:-1 ,CCTV-6高清
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-6hd/1.m3u8
+#EXTINF:-1 ,CCTV-7军事农业
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-7hd/1.m3u8
+#EXTINF:-1 ,CCTV-8高清
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-8hd/1.m3u8
+#EXTINF:-1 ,CCTV-9纪录
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-9hd/1.m3u8
+#EXTINF:-1 ,CCTV-10科教
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-10hd/1.m3u8
+#EXTINF:-1 ,CCTV-11戏曲
 http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 ,CCTV-12社会与法
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-12hd/1.m3u8
+#EXTINF:-1 ,CCTV-13新闻
 http://stream10.fjtv.net/cntv13/playlist.m3u8?_upt=d647a0051641381585
+#EXTINF:-1 ,CCTV-14少儿
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-14hd/1.m3u8
+#EXTINF:-1 ,CCTV-15音乐
 http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 ,CCTV-17
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-17hd/1.m3u8
