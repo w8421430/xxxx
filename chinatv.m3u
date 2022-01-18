@@ -115,9 +115,3 @@ http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id=58 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
 http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id=59 tvg-name="扬州1套" tvg-logo="" group-title="地方台",扬州1套
-https://yztv-wshls.homecdn.com/8bb.m3u8?t=1642513136&k=90f695c9aedf1e68fd8dd1e81bc4cb6a
-#EXTINF:-1 tvg-id=60 tvg-name="扬州2套" tvg-logo="" group-title="地方台",扬州2套
-https://yztv-wshls.homecdn.com/8bd.m3u8?t=1642514070&k=9bf62aec120363d59d0468c8c867b1cd&wsSession=ce7e6fdb617b00f394eb911e-164251407133322&wsIPSercert=1937141693c7e8578df980da58b91893&wsMonitor=0
-#EXTINF:-1 tvg-id=61 tvg-name="扬州3套" tvg-logo="" group-title="地方台",扬州3套
-https://yztv-wshls.homecdn.com/8bf.m3u8?t=1642513228&k=4dfc2cc3ff005373496ecbc4a4928af4
