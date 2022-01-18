@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=1 tvg-name="扬州1套" tvg-logo="" group-title="地方台",扬州1套
+https://yztv-wshls.homecdn.com/8bb.m3u8?t=1642513136&k=90f695c9aedf1e68fd8dd1e81bc4cb6a
+#EXTINF:-1 tvg-id=1 tvg-name="扬州2套" tvg-logo="" group-title="地方台",扬州2套
+https://yztv-vod.homecdn.com/butelvod/a9f0c58b-2d68-4de6-8212-de4604ae33a2.m3u8
+#EXTINF:-1 tvg-id=1 tvg-name="扬州3套" tvg-logo="" group-title="地方台",扬州3套
+https://yztv-wshls.homecdn.com/8bf.m3u8?t=1642513228&k=4dfc2cc3ff005373496ecbc4a4928af4
 #EXTINF:-1 tvg-id=1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 #EXTINF:-1 tvg-id=2 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
